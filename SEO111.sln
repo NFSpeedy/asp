@@ -7,21 +7,21 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SEO111(2)", ".", "{2433CA40
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_24938"
-		Debug.AspNetCompiler.PhysicalPath = "..\NewRepo\"
+		Debug.AspNetCompiler.PhysicalPath = "..\asp\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_24938\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_24938"
-		Release.AspNetCompiler.PhysicalPath = "..\NewRepo\"
+		Release.AspNetCompiler.PhysicalPath = "..\asp\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_24938\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "24938"
-		SlnRelativePath = "..\NewRepo\"
+		SlnRelativePath = "..\asp\"
 	EndProjectSection
 EndProject
 Global
